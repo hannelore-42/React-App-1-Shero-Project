@@ -1,0 +1,13 @@
+.quotecaption {
+    justify-content: center;
+    font-family: sans-serif;
+    font-style: italic;
+    quotes: "",
+}
+.quoteauthor {
+    font-style:normal;
+}
+.zenquote {
+    justify-content: center;
+    
+}

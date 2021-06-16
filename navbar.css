@@ -1,0 +1,27 @@
+.navbar {
+    background-color: gray;
+    justify-content: space-evenly;
+    display:flex;
+    align-items: center;
+    border-color: grey;
+    border-style:solid;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    scroll-padding-top: 5px;
+    color: white;
+    padding-left: 20px;
+    
+}
+.link {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    justify-content: space-around;
+    width: 50%;
+    color: white;
+}
+.Title {
+    color: white;
+}
+.p {
+    quotes: ""
+}

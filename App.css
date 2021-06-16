@@ -1,0 +1,27 @@
+
+
+.App {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ color: ffe8e8;
+ height: 100vh;
+ padding-left: 20px;
+ padding-right: 20px;
+}
+
+.cards {
+   
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-auto-rows: auto;
+height: 50px;
+list-style: none;
+margin-top: 25px;
+background-color: #ffe8e8;
+
+}
+
+
+ 
+
+
+
